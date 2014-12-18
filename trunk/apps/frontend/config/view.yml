@@ -3,13 +3,13 @@ default:
     content-type: text/html
 
   metas:
-    title:        symfony project
+    title:        FX-CMISC
     robots:       index, follow
-    description:  symfony project
-    keywords:     symfony, project
+    description:  FX-CMISC
+    keywords:     FX-CMISC
     language:     en
 
-  stylesheets:    [main]
+  stylesheets:    []
 
   javascripts:    []
 
