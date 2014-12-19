@@ -1,10 +1,14 @@
-<h1>Contact Us</h1>
+<?php
+use_helper('I18N');
+$culture = $sf_user->getCulture();
+?>
+<h1><?php echo __("Contact Us") ?></h1>
 
 <div class="left" style="width:450px;">
-    <h2>Contact Form</h2>
+    <h2><?php echo __("Contact Form") ?></h2>
 
     <div class="wpcf7" id="wpcf7-f33-t1-o1">
-        <form action="http://www.fxcmiscc.com/contact-us/#wpcf7-f33-t1-o1" method="post" class="wpcf7-form">
+        <form action="#" method="post" class="wpcf7-form">
             <div style="display: none;">
                 <input type="hidden" name="_wpcf7" value="33"/>
                 <input type="hidden" name="_wpcf7_version" value="3.2.1"/>
@@ -26,7 +30,7 @@
                                                                             title="Message"></textarea></span></p>
 
             <p><input type="hidden" name="_wpcf7_captcha_challenge_captcha-95" value="179189754"/><img alt="captcha"
-                                                                                                       src="../wp-content/uploads/wpcf7_captcha/179189754.png"
+                                                                                                       src="/assets/wp-content/uploads/wpcf7_captcha/179189754.png"
                                                                                                        class="wpcf7-form-control  wpcf7-captchac wpcf7-captcha-captcha-95"
                                                                                                        width="72"
                                                                                                        height="24"/><br/>
@@ -42,27 +46,47 @@
 </div>
 
 <div class="right" style="width:450px;">
-    <h2>Address</h2>
+    <h2><?php echo __("Address") ?></h2>
 
-    <h3>United Kingdom (UK)</h3>
+    <h3><?php echo __("United Kingdom (UK)") ?></h3>
 
-    <p>Level 40 25 Canada Square London E14 5LQF</p>
+    <p><?php echo __("Level 40 25 Canada Square London E14 5LQF") ?></p>
     <iframe width="430" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
             src="http://maps.google.com.my/maps?q=25+Canada+Square,+London,+UK&amp;hl=en&amp;sll=3.232214,101.380968&amp;sspn=2.212828,4.22699&amp;t=m&amp;hnear=25+Canada+Square,+London+E14,+United+Kingdom&amp;z=16&amp;output=embed"></iframe>
     <br/>
     <small><a
             href="http://maps.google.com.my/maps?q=25+Canada+Square,+London,+UK&amp;hl=en&amp;sll=3.232214,101.380968&amp;sspn=2.212828,4.22699&amp;t=m&amp;hnear=25+Canada+Square,+London+E14,+United+Kingdom&amp;z=16&amp;source=embed"
-            target="_new" style="color:#0000FF;text-align:left">View larger map</a></small>
+            target="_new" style="color:#0000FF;text-align:left"><?php echo __("View larger map") ?></a></small>
     <h3> </h3>
 
-    <h3>Hong Kong (HK)</h3>
+    <h3><?php echo __("Hong Kong (HK)") ?></h3>
 
-    <p>Room 15A, 15/F Hillier Commercial Centre 65-67 Bonham Strand East Sheung Wan Hong Kong</p>
+    <p><?php echo __("Room 15A, 15/F Hillier Commercial Centre 65-67 Bonham Strand East Sheung Wan Hong Kong") ?></p>
     <iframe width="430" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
             src="http://maps.google.com.my/maps?q=Bonham+Strand+East+Sheung+Wan+Hong+Kong&amp;hl=en&amp;sll=51.504896,-0.01693&amp;sspn=0.010779,0.033023&amp;t=m&amp;hnear=Bonham+Strand,+Hong+Kong&amp;z=17&amp;output=embed"></iframe>
     <br/>
     <small><a
             href="http://maps.google.com.my/maps?q=Bonham+Strand+East+Sheung+Wan+Hong+Kong&amp;hl=en&amp;sll=51.504896,-0.01693&amp;sspn=0.010779,0.033023&amp;t=m&amp;hnear=Bonham+Strand,+Hong+Kong&amp;z=17&amp;source=embed"
-            target="_new" style="color:#0000FF;text-align:left">View larger map</a></small>
-    <p><strong>Email</strong>: support@fxcmiscc.com</p>
+            target="_new" style="color:#0000FF;text-align:left"><?php echo __("View larger map") ?></a></small>
+    <p><strong><?php echo __("Email") ?></strong>: <a href="#">support@fxcmiscc.com</a></p>
 </div>
+
+<!-- Preload if image is big-->
+<div style="display:none">
+	<img src="/assets/wp-content/themes/twentyten/images/open_live_account_hover.png" />
+    <img src="/assets/wp-content/themes/twentyten/images/open_demo_account_hover.png" />
+    <img src="/assets/wp-content/themes/twentyten/images/member_login_hover.png" />
+</div>
+
+
+<script type='text/javascript' src='/assets/wp-content/plugins/contact-form-7/includes/js/jquery.form16e3.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {
+	loaderUrl: "/assets/wp-content/plugins/contact-form-7/images/ajax-loader.gif",
+	sending: "Sending...",
+	cached: "1"
+};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/assets/wp-content/plugins/contact-form-7/includes/js/scriptsdeae.js'></script>
