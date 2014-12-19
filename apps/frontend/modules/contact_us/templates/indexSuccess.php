@@ -60,14 +60,14 @@ $culture = $sf_user->getCulture();
 </div>
 
 
-<script type='text/javascript' src='/js/contact-form-7/jquery.form16e3.js'></script>
+<script type='text/javascript' src='/js/jquery.form16e3.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var _wpcf7 = {
-	loaderUrl: "/images/contact-form-7/ajax-loader.gif",
+	loaderUrl: "/images/ajax-loader.gif",
 	sending: "Sending...",
 	cached: "1"
 };
 /* ]]> */
 </script>
-<script type='text/javascript' src='/js/contact-form-7/scriptsdeae.js'></script>
+<script type='text/javascript' src='/js/scriptsdeae.js'></script>

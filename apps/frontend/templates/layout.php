@@ -13,10 +13,10 @@ $culture = $sf_user->getCulture();
     <link rel="shortcut icon" href="favicon.ico">
 
     <link rel="stylesheet" type="text/css" media="all" href="/css/style.css"/>
-    <link rel='stylesheet' type='text/css' media='all' id='contact-form-7-css' href='/css/contact-form-7/stylesdeae.css'/>
+    <link rel='stylesheet' type='text/css' media='all' id='contact-form-7-css' href='/css/stylesdeae.css'/>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,300,300italic' rel='stylesheet' type='text/css'/>
 
-    <script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+    <script type='text/javascript' src="/js/jquery/jquery-1.11.1.min.js"></script>
     <script type='text/javascript' src='/js/l10na17a.js'></script>
     <script type='text/javascript' src='/js/comment-replya6d7.js'></script>
     <script type='text/javascript' src='/js/jquery/jquery51a2.js'></script>
@@ -38,8 +38,8 @@ $culture = $sf_user->getCulture();
         <div class="right">
 
             <ul class="social right">
-                <li><a title="Follow us on fb" class="social-icon fb" href="http://"></a></li>
-                <li><a title="Follow us on twitter" class="social-icon twitter" href="http://"></a></li>
+                <li><a title="Follow us on fb" class="social-icon fb" href="#"></a></li>
+                <li><a title="Follow us on twitter" class="social-icon twitter" href="#"></a></li>
             </ul>
 
             <div id="google_translate_element" class="right"></div>
