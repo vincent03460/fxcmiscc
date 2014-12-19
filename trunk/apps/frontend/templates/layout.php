@@ -56,7 +56,7 @@
 
     <header id="header">
         <div id="header-inner">
-            <div id="logo"><a href="index.html" class="logo"><img src="wp-content/themes/twentyten/images/logo.png"></a></div>
+            <div id="logo"><a href="index.html" class="logo"><img src="/images/logo.png"></a></div>
 
             <div id="access" role="navigation">
                 <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
@@ -130,7 +130,7 @@
     <div class="footer_last">
         <div class="bank_logo left">
             <strong>We Accept</strong><br/>
-            <img src="wp-content/themes/twentyten/images/banklogo.png"/>
+            <img src="/images/banklogo.png"/>
         </div>
 
         <div class="right" style="margin-top:24px;">
