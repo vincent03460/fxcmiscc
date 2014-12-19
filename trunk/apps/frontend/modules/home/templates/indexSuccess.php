@@ -26,6 +26,7 @@ $culture = $sf_user->getCulture();
     </div>
     <!-- End SlidesJS Required: Start Slides -->
 
+    <script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
     <!-- SlidesJS Required: Link to jquery.slides.js -->
     <script src="/js/jquery.slides.js"></script>
     <!-- End SlidesJS Required -->

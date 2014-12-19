@@ -43,13 +43,6 @@ $culture = $sf_user->getCulture();
             </ul>
 
             <div id="google_translate_element" class="right"></div>
-            <script type="text/javascript">
-                function googleTranslateElementInit() {
-                    new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-                }
-            </script>
-
-            <script type="text/javascript" src="//translate.google.com/translate_a/elementa0d8.html?cb=googleTranslateElementInit"></script>
 
             <div class="tagline right">
                 <?php echo __("Rule No.1: Never lose money. Rule No.2: Never forget rule No.1") ?><span class="author"> ~ Warren Buffett</span>
