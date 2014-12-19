@@ -70,7 +70,7 @@
 
     <div id="main">
         <div id="container">
-            <div id="content" role="main" class="page_default">
+            <div id="content" role="main">
                 <?php echo $sf_data->getRaw('sf_content') ?>
             </div>
         </div>
