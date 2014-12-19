@@ -1269,12 +1269,13 @@ a.social-icon:hover {
 background:none repeat scroll 0 0 #E00000;
 }
 
+/*
 #content.page_default h1 {
 border-bottom:2px solid #E1E1E1;
 margin-top:20px;
 padding-bottom:8px;
 }
-
+*/
 #content.page_default p {
 font-size:14px;
 line-height:22px;

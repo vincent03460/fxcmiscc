@@ -67,18 +67,18 @@
 <div id="home_middle">
 
     <div class="col left first_col">
-        <h1>About</h1>
+        <h1 style="border-bottom: 1px solid #FF0000; margin-bottom: 16px !important; padding: 7px 18px;">About</h1>
 
-        <p>Our professional and efficient team provides top-notch pre- and after-sales services. We handle queries on
+        <p style="font-family: font-family: 'Open Sans', sans-serif; font-size: 13px; line-height: 20px; ">Our professional and efficient team provides top-notch pre- and after-sales services. We handle queries on
             account opening, technical troubleshooting, funding instructions, trade execution and everything else you
             need to know with regards to your account.</p>
         <a href="our-team/index.html" class="read_more">Read More</a>
     </div>
 
     <div class="col left second_col">
-        <h1>News</h1>
+        <h1 style="border-bottom: 1px solid #FF0000; margin-bottom: 16px !important; padding: 7px 18px;">News</h1>
 
-        <div id="first" class="widget-area">
+        <div id="first" class="widget-area"  style="font-family: font-family: 'Open Sans', sans-serif; font-size: 13px; line-height: 20px; >
             <ul class="xoxo">
                 <li id="rss-3" class="widget-container widget_rss"><h3 class="widget-title"><a class='rsswidget'
                                                                                                href='http://www.dailyfx.com/feeds/forex_market_news'
