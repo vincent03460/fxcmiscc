@@ -87,8 +87,8 @@ $culture = $sf_user->getCulture();
     <div class="col left second_col">
         <h1><?php echo __("News") ?></h1>
 
-        <div id="first" class="widget-area"  style="font-family: font-family: 'Open Sans', sans-serif; font-size: 13px; line-height: 20px; >
-            <ul class="xoxo">
+        <div id="first" class="widget-area"  style="font-family: font-family: 'Open Sans', sans-serif; font-size: 13px; line-height: 20px;" >
+            <ul style="list-style-type: none" class="xoxo" >
                 <li id="rss-3" class="widget-container widget_rss"><h3 class="widget-title"><a class='rsswidget' href='http://www.dailyfx.com/feeds/forex_market_news' title='Syndicate this content'><img style='border:0' width='14' height='14' src='/images/rss.png' alt='RSS'/></a> <a class='rsswidget' href='http://www.dailyfx.com//feeds/forex_market_news?fmt=rss_2.0' title='Forex Market News'>DailyFX &#8211; Forex Market News</a></h3>
                     <ul>
                         <li>
