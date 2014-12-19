@@ -3,30 +3,26 @@
 
 <head>
 <meta charset="UTF-8" />
+
 <title>FX-CMISC</title>
-<link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="stylesheet" type="text/css" media="all" href="/assets/wp-content/themes/twentyten/style.css" />
-<link rel="pingback" href="xmlrpc.php" />
-<link rel="alternate" type="application/rss+xml" title="FX-CMISC &raquo; Feed" href="feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="FX-CMISC &raquo; Comments Feed" href="comments/feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="FX-CMISC &raquo; Home Comments Feed" href="home/feed/index.html" />
-<link rel='stylesheet' id='contact-form-7-css'  href='/assets/wp-content/plugins/contact-form-7/includes/css/stylesdeae.css?ver=3.2.1' type='text/css' media='all' />
-<script type='text/javascript' src='/assets/wp-includes/js/l10na17a.js?ver=20101110'></script>
-<script type='text/javascript' src='/assets/wp-includes/js/comment-replya6d7.js?ver=20090102'></script>
-<script type='text/javascript' src='/assets/wp-includes/js/jquery/jquery51a2.js?ver=1.6.1'></script>
-<style type="text/css">#wpadminbar #adminbarsearch{display:none}</style>
-<!--Plugin Admin Bar Removal 2012.0320.2012 Active-->
-<!-- All in One SEO Pack 2.0.2 by Michael Torbert of Semper Fi Web Design[82,122] -->
-<meta name="description" content="FX-CMISC offers a one-stop service to traders and investors with different trading backgrounds and objectives to gain access to the foreign exchange market." />
 
-<meta name="keywords" content="traders,investors,forex,exchange,investment" />
-
-<link rel="canonical" href="index.html" />
-<!-- /all in one seo pack -->
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,300,300italic' rel='stylesheet' type='text/css'>
-<script src="../ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 <link rel="shortcut icon" href="favicon.ico">
+
+<link rel="stylesheet" type="text/css" media="all" href="/assets/wp-content/themes/twentyten/style.css" />
+<link rel='stylesheet' type='text/css' media='all' id='contact-form-7-css' href='/assets/wp-content/plugins/contact-form-7/includes/css/stylesdeae.css?ver=3.2.1' />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,300,300italic' rel='stylesheet' type='text/css' />
+
+<script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script type='text/javascript' src='/assets/wp-includes/js/l10na17a.js'></script>
+<script type='text/javascript' src='/assets/wp-includes/js/comment-replya6d7.js'></script>
+<script type='text/javascript' src='/assets/wp-includes/js/jquery/jquery51a2.js'></script>
+
+<style type="text/css">
+    #wpadminbar #adminbarsearch { display: none; }
+</style>
+
 <meta name="google-translate-customization" content="48db38ec63f47a6-3d05752acd1480bf-g8b55c39d81ce653d-10"></meta>
+
 </head>
 
 <body class="home page page-id-5 page-template page-template-page-home-php">
@@ -63,62 +59,7 @@
 
 	<div id="access" role="navigation">
 		<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
-        <div class="menu">
-            <ul>
-                <li class="current_page_item"><a href="/home" title="Home">Home</a></li>
-                <li class="page_item page-item-9"><a href="/fx_cmisc"
-                                                     title="FX-CMISC">FX-CMISC</a>
-                    <ul class='children'>
-                        <li class="page_item page-item-11"><a href="/fx_cmisc" title="Our Team">Our
-                            Team</a></li>
-                        <li class="page_item page-item-81"><a href="/fx_cmisc/whiteLabel" title="White Label">White
-                            Label</a></li>
-                    </ul>
-                </li>
-                <li class="page_item page-item-84"><a href="forex-education/index.html" title="FOREX Education">FOREX
-                    Education</a>
-                    <ul class='children'>
-                        <li class="page_item page-item-86"><a href="forex-education/forex-essentials/index.html"
-                                                              title="Forex Essentials">Forex Essentials</a></li>
-                        <li class="page_item page-item-95"><a href="forex-education/forex-market/index.html"
-                                                              title="Forex Market">Forex Market</a></li>
-                        <li class="page_item page-item-99"><a href="forex-education/characteristics/index.html"
-                                                              title="Characteristics">Characteristics</a></li>
-                        <li class="page_item page-item-101"><a href="forex-education/key-factors/index.html"
-                                                               title="Key Factors">Key Factors</a></li>
-                        <li class="page_item page-item-103"><a href="forex-education/fundamental-analysis/index.html"
-                                                               title="Fundamental Analysis">Fundamental Analysis</a>
-                        </li>
-                        <li class="page_item page-item-105"><a href="forex-education/technical-analysis/index.html"
-                                                               title="Technical Analysis">Technical Analysis</a></li>
-                        <li class="page_item page-item-107"><a href="forex-education/economic-calendar/index.html"
-                                                               title="Economic Calendar">Economic Calendar</a></li>
-                    </ul>
-                </li>
-                <li class="page_item page-item-17"><a href="trading-platform/index.html" title="Trading Platform">Trading
-                    Platform</a>
-                    <ul class='children'>
-                        <li class="page_item page-item-19"><a href="trading-platform/meta-trader-4/index.html"
-                                                              title="Meta Trader 4">Meta Trader 4</a></li>
-                        <li class="page_item page-item-21"><a href="trading-platform/trading-signal/index.html"
-                                                              title="Trading Signal">Trading Signal</a></li>
-                    </ul>
-                </li>
-                <li class="page_item page-item-23"><a href="trading-products/index.html" title="Trading Products">Trading
-                    Products</a>
-                    <ul class='children'>
-                        <li class="page_item page-item-112"><a href="trading-products/forex-fx-2/index.html"
-                                                               title="Forex (FX)">Forex (FX)</a></li>
-                        <li class="page_item page-item-27"><a href="trading-products/cfds/index.html"
-                                                              title="CFDs">CFDs</a></li>
-                        <li class="page_item page-item-29"><a href="trading-products/precious-metals/index.html"
-                                                              title="Precious Metals">Precious Metals</a></li>
-                    </ul>
-                </li>
-                <li class="page_item page-item-31"><a href="contact-us/index.html" title="Contact Us">Contact Us</a>
-                </li>
-            </ul>
-        </div>
+            <?php include_component('component', 'submenu') ?>
 			<div class="clear"></div>
 		</div>
         <!-- #access -->

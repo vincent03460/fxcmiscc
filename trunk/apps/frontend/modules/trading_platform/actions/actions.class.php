@@ -17,4 +17,7 @@ class trading_platformActions extends sfActions
   public function executeIndex()
   {
   }
+  public function executeTradingSignal()
+  {
+  }
 }
