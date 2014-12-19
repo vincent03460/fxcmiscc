@@ -86,22 +86,11 @@
 <p><strong>Broker’s Policy on Insufficient Fund (Take Note!)</strong></p>
 <ul>
     <ul>
-        <li>Different brokers have different policies on insufficient margin balance in the trader’s account.</li>
-        <li>Some brokers will square your open position when the unrealized profit and loss falls below the required
-            margin, resulting in a zero balance in your account.
-        </li>
-        <li>Other brokers may open a corresponding opposite position on your behalf to ‘lock in’ your losses. In this
-            way, your account balance will not be reduced to zero.
-        </li>
-        <li>Most brokers will require clients to top up the margin in their trading accounts within a specific deadline.
-            If the margin is not topped up by the deadline, the broker will square the client’s open position, even if
-            the client’s realized profit and loss may be lower than the current balance.
-        </li>
+        <li><?php echo __("Different brokers have different policies on insufficient margin balance in the trader’s account.") ?></li>
+        <li><?php echo __("Some brokers will square your open position when the unrealized profit and loss falls below the required margin, resulting in a zero balance in your account.") ?></li>
+        <li><?php echo __("Other brokers may open a corresponding opposite position on your behalf to ‘lock in’ your losses. In this way, your account balance will not be reduced to zero.") ?></li>
+        <li><?php echo __("Most brokers will require clients to top up the margin in their trading accounts within a specific deadline. If the margin is not topped up by the deadline, the broker will square the client’s open position, even if the client’s realized profit and loss may be lower than the current balance.") ?></li>
     </ul>
 </ul>
-<p><strong><br/>Swap Rate</strong></p>
-<p>The amount paid or earned as a result of the differential interest rates applicable to currency pairs when a trader
-    holds a position over night is the Swap or Rollover rate. It is calculated on daily basic at 4:59 PM/ET. For you to
-    be subjected to swap, trade position must have been opened before 4:59 PM/ET and held open past this time. Swap
-    rates are tripled on Wednesday at 4:59 PM/ET. Swap rate is opposite for each currency pairs and depend on either
-    long or short. Please refer to the summary table for swap rate traded with FX-CMISC.</p>
+<p><strong><br/><?php echo __("Swap Rate") ?></strong></p>
+<p><?php echo __("The amount paid or earned as a result of the differential interest rates applicable to currency pairs when a trader holds a position over night is the Swap or Rollover rate. It is calculated on daily basic at 4:59 PM/ET. For you to be subjected to swap, trade position must have been opened before 4:59 PM/ET and held open past this time. Swap rates are tripled on Wednesday at 4:59 PM/ET. Swap rate is opposite for each currency pairs and depend on either long or short. Please refer to the summary table for swap rate traded with FX-CMISC.") ?></p>
