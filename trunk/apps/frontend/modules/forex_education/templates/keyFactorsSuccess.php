@@ -1,4 +1,4 @@
-<h1>Key Factors</h1>
+<h1 style="border-bottom: 2px solid #E1E1E1; margin-top: 20px; padding-bottom: 8px;">Key Factors</h1>
 <p>Lesson 6 – Key Factors Affecting Exchange Rate</p>
 <p>All forex trading involves the exchange of one currency with another. At any one time, the actual exchange rate is
     determined by the supply and demand of the corresponding currencies. Keep in mind that the demand of a certain

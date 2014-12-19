@@ -1,4 +1,4 @@
-<h1>CFDs</h1>
+<h1 style="border-bottom: 2px solid #E1E1E1; margin-top: 20px; padding-bottom: 8px;">CFDs</h1>
 
 			            	<p><strong>What are CFDs?</strong></p>
 <p>Contracts for Difference (CFDs) allow you to trade on the price movements of financial markets, without having to buy or sell underlying assets directly. CFDs allow investors to make profits from a wide range of markets including equities, indices, currencies and commodities. Generally, CFDs cost less than directly investing in the underlying asset it represents. CFDs can be used to speculate on upward or downward price movements, making them a flexible alternative to traditional trading.</p>

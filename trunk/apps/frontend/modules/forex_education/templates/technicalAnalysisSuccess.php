@@ -1,4 +1,4 @@
-<h1>Technical Analysis</h1>
+<h1 style="border-bottom: 2px solid #E1E1E1; margin-top: 20px; padding-bottom: 8px;">Technical Analysis</h1>
 
 <p>Lesson 8 – What is Technical Analysis?</p>
 <p>Technical analysis is the forecasting of future market trends and price movements through the research of market data

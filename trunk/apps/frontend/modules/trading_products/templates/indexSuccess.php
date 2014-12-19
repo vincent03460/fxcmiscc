@@ -1,4 +1,4 @@
-<h1>Forex (FX)</h1>
+<h1 style="border-bottom: 2px solid #E1E1E1; margin-top: 20px; padding-bottom: 8px;">Forex (FX)</h1>
 <p>The currency market is the largest and most active financial market, with an equivalent of over 4 trillion US Dollars
     traded every day. This is significantly larger than any other major financial market. As a result of high liquidity
     and the market’s unique decentralized characteristics, there are always price fluctuations in the Forex market. As a

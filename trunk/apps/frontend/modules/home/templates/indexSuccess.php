@@ -64,11 +64,10 @@
 </div>
 <!-- EXCHANGERATES.ORG.UK LIVE FOREX RATES TICKER END -->
 
-<div id="home_middle">
+<div id="home_middle" class="home">
 
     <div class="col left first_col">
-        <h1 style="border-bottom: 1px solid #FF0000; margin-bottom: 16px !important; padding: 7px 18px;">About</h1>
-
+        <h1>About</h1>
         <p style="font-family: font-family: 'Open Sans', sans-serif; font-size: 13px; line-height: 20px; ">Our professional and efficient team provides top-notch pre- and after-sales services. We handle queries on
             account opening, technical troubleshooting, funding instructions, trade execution and everything else you
             need to know with regards to your account.</p>
@@ -76,7 +75,7 @@
     </div>
 
     <div class="col left second_col">
-        <h1 style="border-bottom: 1px solid #FF0000; margin-bottom: 16px !important; padding: 7px 18px;">News</h1>
+        <h1>News</h1>
 
         <div id="first" class="widget-area"  style="font-family: font-family: 'Open Sans', sans-serif; font-size: 13px; line-height: 20px; >
             <ul class="xoxo">
@@ -107,8 +106,6 @@
             </ul>
         </div>
         <!-- #first .widget-area -->
-
-
     </div>
 
     <div class="col left third_col" style="padding-top:30px;

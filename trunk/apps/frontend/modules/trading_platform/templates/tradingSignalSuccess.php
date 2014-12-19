@@ -1,1 +1,1 @@
-<h1>Trading Signal</h1>
+<h1 style="border-bottom: 2px solid #E1E1E1; margin-top: 20px; padding-bottom: 8px;">Trading Signal</h1>

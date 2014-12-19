@@ -1,4 +1,4 @@
-<h1>Meta Trader 4</h1>
+<h1 style="border-bottom: 2px solid #E1E1E1; margin-top: 20px; padding-bottom: 8px;">Meta Trader 4</h1>
 
 <p><img src="/images/slide5.jpg" alt="" title="slide5" width="940" height="380"
         class="alignleft size-full wp-image-119"/></p>

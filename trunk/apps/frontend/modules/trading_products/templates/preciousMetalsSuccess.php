@@ -1,4 +1,4 @@
-<h1>Precious Metals</h1>
+<h1 style="border-bottom: 2px solid #E1E1E1; margin-top: 20px; padding-bottom: 8px;">Precious Metals</h1>
 
 <p>Many traders refer to precious metals as “safe-haven” investments. During times of high volatility, increased risk, and anticipated inflation, investors often move their funds to gold and silver. FX-CMISC allows you to speculate on the price movements of gold or silver relative to the US dollar currency.</p>
 <p>Precious metals (Gold and Silver) are quoted and traded similarly to our currency pairs. Precious metals include a Bid price, an Ask price, a spread, and are calculated in Pips.</p>

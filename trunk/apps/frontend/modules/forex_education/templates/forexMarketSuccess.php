@@ -1,4 +1,4 @@
-<h1>Forex Market</h1>
+<h1 style="border-bottom: 2px solid #E1E1E1; margin-top: 20px; padding-bottom: 8px;">Forex Market</h1>
 <p>Lesson 3 – Players in the Forex Market</p>
 <p>In general, anyone who carries out a transaction in the forex market can be considered as a player. However, the key
     players in the forex market largely include the following groups: foreign exchange banks, government or central
