@@ -17,4 +17,10 @@ class trading_productsActions extends sfActions
   public function executeIndex()
   {
   }
+  public function executeCfds()
+  {
+  }
+  public function executePreciousMetals()
+  {
+  }
 }

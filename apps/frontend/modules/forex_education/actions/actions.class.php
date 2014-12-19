@@ -17,4 +17,22 @@ class forex_educationActions extends sfActions
   public function executeIndex()
   {
   }
+  public function executeForexMarket()
+  {
+  }
+  public function executeCharacteristics()
+  {
+  }
+  public function executeKeyFactors()
+  {
+  }
+  public function executeFundamentalAnalysis()
+  {
+  }
+  public function executeTechnicalAnalysis()
+  {
+  }
+  public function executeEconomicCalendar()
+  {
+  }
 }
