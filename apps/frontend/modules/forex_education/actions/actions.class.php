@@ -16,6 +16,5 @@ class forex_educationActions extends sfActions
    */
   public function executeIndex()
   {
-    $this->forward('default', 'module');
   }
 }
