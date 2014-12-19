@@ -26,33 +26,35 @@ $culture = $sf_user->getCulture();
     </div>
     <!-- End SlidesJS Required: Start Slides -->
 
-    <script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+    
     <!-- SlidesJS Required: Link to jquery.slides.js -->
-    <script src="/js/jquery.slides.js"></script>
+    <script type="text/javascript" src="/js/jquery/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.slides.js"></script>
     <!-- End SlidesJS Required -->
 
     <!-- SlidesJS Required: Initialize SlidesJS with a jQuery doc ready -->
     <script>
-        $('#slides').slidesjs({
-            width: 940,
-            height: 380,
-            pagination: {
-                active: true,
-                // [boolean] Create pagination items.
-                // You cannot use your own pagination. Sorry.
-                effect: "fade"
-                // [string] Can be either "slide" or "fade".
-            },
-            play: {
-                active: true,
-                effect: "fade",
-                auto: true,
-                interval: 8000,
-                swap: true
-            }
+        $(document).ready(function() {
+            $('#slides').slidesjs({
+                width: 940,
+                height: 380,
+                pagination: {
+                    active: true,
+                    // [boolean] Create pagination items.
+                    // You cannot use your own pagination. Sorry.
+                    effect: "fade"
+                    // [string] Can be either "slide" or "fade".
+                },
+                play: {
+                    active: true,
+                    effect: "fade",
+                    auto: true,
+                    interval: 8000,
+                    swap: true
+                }
+            });
         });
     </script>
-
 
     <!-- End SlidesJS Required -->
 </div>
@@ -87,8 +89,8 @@ $culture = $sf_user->getCulture();
     <div class="col left second_col">
         <h1><?php echo __("News") ?></h1>
 
-        <div id="first" class="widget-area"  style="font-family: font-family: 'Open Sans', sans-serif; font-size: 13px; line-height: 20px;" >
-            <ul style="list-style-type: none" class="xoxo" >
+        <div id="first" class="widget-area" style="font-family: font-family: 'Open Sans', sans-serif; font-size: 13px; line-height: 20px;">
+            <ul style="list-style-type: none" class="xoxo">
                 <li id="rss-3" class="widget-container widget_rss"><h3 class="widget-title"><a class='rsswidget' href='http://www.dailyfx.com/feeds/forex_market_news' title='Syndicate this content'><img style='border:0' width='14' height='14' src='/images/rss.png' alt='RSS'/></a> <a class='rsswidget' href='http://www.dailyfx.com//feeds/forex_market_news?fmt=rss_2.0' title='Forex Market News'>DailyFX &#8211; Forex Market News</a></h3>
                     <ul>
                         <li>
