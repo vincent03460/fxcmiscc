@@ -16,6 +16,5 @@ class contact_usActions extends sfActions
    */
   public function executeIndex()
   {
-    $this->forward('default', 'module');
   }
 }

@@ -16,6 +16,5 @@ class trading_productsActions extends sfActions
    */
   public function executeIndex()
   {
-    $this->forward('default', 'module');
   }
 }
