@@ -1,4 +1,4 @@
-<h1>Forex Essentials</h1>
+<h1 style="border-bottom: 2px solid #E1E1E1; margin-top: 20px; padding-bottom: 8px;">Forex Essentials</h1>
 <p>Lesson 1 – What Is Forex?</p>
 <p><strong>What Is Forex?</strong></p>
 <p>Foreign exchange is the simultaneous buying of one currency and selling of another. Currencies are traded through a

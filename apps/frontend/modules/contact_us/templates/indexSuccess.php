@@ -2,7 +2,7 @@
 use_helper('I18N');
 $culture = $sf_user->getCulture();
 ?>
-<h1><?php echo __("Contact Us") ?></h1>
+<h1 style="border-bottom: 2px solid #E1E1E1; margin-top: 20px; padding-bottom: 8px;"><?php echo __("Contact Us") ?></h1>
 
 <div class="left" style="width:450px;">
     <h2><?php echo __("Contact Form") ?></h2>

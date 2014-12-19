@@ -2,7 +2,7 @@
 use_helper('I18N');
 $culture = $sf_user->getCulture();
 ?>
-<h1><?php echo __("Our Team") ?></h1>
+<h1 style="border-bottom: 2px solid #E1E1E1; margin-top: 20px; padding-bottom: 8px;"><?php echo __("Our Team") ?></h1>
 <p>
     <?php echo __("FX-CMISC offers a one-stop service to traders and investors with different trading backgrounds and objectives to gain access to the foreign exchange market. Our commitment to delivering product innovation, cutting-edge solutions and above all, commitment to serving our clients’ best interests are the main drivers of our success and prominent position in the forex marketplace.") ?>
 </p>

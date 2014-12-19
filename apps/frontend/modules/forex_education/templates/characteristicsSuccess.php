@@ -1,4 +1,4 @@
-<h1>Characteristics</h1>
+<h1 style="border-bottom: 2px solid #E1E1E1; margin-top: 20px; padding-bottom: 8px;">Characteristics</h1>
 <p>Lesson 4 – Characteristics of the Forex Market</p>
 <p><strong>24-Hour Market</strong></p>
 <p>Other than the weekends when it is closed, the forex market is open 24 hours a day. There is no need to wait for the

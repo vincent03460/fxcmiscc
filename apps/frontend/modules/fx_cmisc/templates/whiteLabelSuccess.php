@@ -2,7 +2,7 @@
 use_helper('I18N');
 $culture = $sf_user->getCulture();
 ?>
-<h1><?php echo __("White Label") ?></h1>
+<h1 style="border-bottom: 2px solid #E1E1E1; margin-top: 20px; padding-bottom: 8px;"><?php echo __("White Label") ?></h1>
 <p><?php echo __("The White Label Program is for ambitious market players to be broker themselves. FX-CMISC provides the full power and efficiency of MT4 suite of trading, risk management and back office administration tools.") ?></p>
 <p><strong><?php echo __("Plans") ?></strong><br/>
     <?php echo __("Choose from our fine array of commission plans to suit your needs, including a sub-affiliate plan.") ?>

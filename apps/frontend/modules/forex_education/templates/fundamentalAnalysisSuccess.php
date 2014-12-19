@@ -1,4 +1,4 @@
-<h1>Fundamental Analysis</h1>
+<h1 style="border-bottom: 2px solid #E1E1E1; margin-top: 20px; padding-bottom: 8px;">Fundamental Analysis</h1>
 <p>Lesson 7 – Fundamental Analysis</p>
 <p>Fundamental analysis is the methodical analysis of a collection of relevant market information within a specific time
     frame in order to determine the intrinsic value of the market which is used to compare against actual market prices
